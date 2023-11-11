@@ -9,7 +9,7 @@ export default function Home() {
         <p className='text-2xl text-white/60 mb-4'>This is the best app for tracking your mood throughout your life
           all you have to do is to be honest.
         </p>
-        <Link href={'/'}>
+        <Link href={'/journal'}>
         <button className='bg-blue-600/50 px-4 py-2 rounded-lg'>Get started</button>
         </Link>
       </div>
